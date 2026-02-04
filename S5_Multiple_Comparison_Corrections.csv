@@ -1,0 +1,5 @@
+"Comparison","Raw_P","Bonferroni_P","FDR_P","Sig_Raw","Sig_Bonferroni","Sig_FDR"
+"M1_Abruption",1e-04,4e-04,1e-04,TRUE,TRUE,TRUE
+"M1_Retention",1e-04,4e-04,1e-04,TRUE,TRUE,TRUE
+"M2_Abruption",1e-04,4e-04,1e-04,TRUE,TRUE,TRUE
+"M2_Retention",1e-04,4e-04,1e-04,TRUE,TRUE,TRUE

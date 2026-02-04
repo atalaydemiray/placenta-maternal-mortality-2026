@@ -1,0 +1,4 @@
+"group","N","Deaths","Death_Rate_per_1000","Person_Years","Mortality_per_1000_PY","Followup_Mean","Followup_SD","Age_Mean","Age_SD","Diabetes_n","Hypertension_n","Obesity_n","CKD_n","Asthma_n","Mental_n","Alcohol_n","Tobacco_n","Substance_n","SDOH_n","Multiple_n","Previa_n","Preeclampsia_n","Eclampsia_n","PPH_n","DIC_n","Hysterectomy_n","Transfusion_n"
+"Normal Delivery",625890,4010,6.4,2171019,1.85,3.47,3.27,28.4,6,18120,46978,147539,7982,71383,188048,9897,65635,46954,47315,14062,33429,40718,1528,46592,4148,682,11548
+"Placental Abruption",5435,53,9.8,18074,2.93,3.33,3.11,29,6.1,203,533,1219,98,743,1970,146,917,727,528,212,482,517,35,786,125,7,331
+"Placental Retention",7586,91,12,24832,3.66,3.27,3.01,29.8,6.1,297,799,2036,157,1064,2871,173,932,694,590,315,593,722,42,2791,96,42,585
