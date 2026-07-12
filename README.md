@@ -92,4 +92,6 @@ This analysis code is released under the MIT License. See [LICENSE](LICENSE) for
 
 ## Contact
 
-Atalay Demiray, atalay.demiray@yale.edu
+Atalay Demiray  
+atalay.demiray@yale.edu  
+[atalaydemiray.com](https://atalaydemiray.com)
