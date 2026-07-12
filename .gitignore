@@ -1,0 +1,19 @@
+# ==========================================================================
+# Protected data. The data use agreement prohibits redistribution.
+# Never commit patient-level data to this repository.
+# ==========================================================================
+data/
+data (DO NOT SHARE)/
+*.RData
+*.rda
+*.rds
+
+# R session and workspace artifacts (may contain data or local paths)
+.Rhistory
+.Rapp.history
+.Ruserdata
+.Rproj.user/
+
+# OS and editor junk
+.DS_Store
+Thumbs.db

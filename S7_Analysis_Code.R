@@ -19,9 +19,9 @@
 #
 # DATA REQUIREMENTS
 # -----------------
-# Input: filtered_patient_data.RData (processed cohort data)
+# Input: analysis_data.RData (processed cohort data)
 # Note: Raw data from TriNetX cannot be redistributed per data use agreement.
-#       The filtered_patient_data.RData contains the analysis-ready cohort.
+#       The analysis_data.RData contains the analysis-ready cohort.
 #
 # OUTPUT FILES
 # ------------
@@ -90,16 +90,16 @@ cat(paste(rep("=", 80), collapse = ""), "\n\n")
 
 # Set working directory to script location or specify path
 # Update this path to your data location
-data_path <- "data/filtered_patient_data.RData"
+data_path <- "data/analysis_data.RData"
 
 if (file.exists(data_path)) {
   load(data_path)
   cat("Loaded data from:", data_path, "\n")
-} else if (file.exists("filtered_patient_data.RData")) {
-  load("filtered_patient_data.RData")
-  cat("Loaded data from: filtered_patient_data.RData\n")
+} else if (file.exists("analysis_data.RData")) {
+  load("analysis_data.RData")
+  cat("Loaded data from: analysis_data.RData\n")
 } else {
-  stop("Data file not found. Please ensure filtered_patient_data.RData is available.")
+  stop("Data file not found. Please ensure analysis_data.RData is available.")
 }
 
 cat("Dataset dimensions:", nrow(filtered_data), "rows x", ncol(filtered_data), "columns\n")

@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this analysis code, please cite the published article below."
+title: "Analysis code for: A comparison of long-term maternal mortality associated with pathologic placental separation"
+authors:
+  - family-names: Jasani
+    given-names: Sona
+  - family-names: Demiray
+    given-names: Atalay
+  - family-names: Stevenson
+    given-names: Julia
+  - family-names: Krawiec
+    given-names: Conrad
+date-released: 2026-04-24
+license-url: "https://doi.org/10.1371/journal.pone.0338586"
+preferred-citation:
+  type: article
+  title: "A comparison of long-term maternal mortality associated with pathologic placental separation: highlighting possible trends and mechanisms"
+  authors:
+    - family-names: Jasani
+      given-names: Sona
+    - family-names: Demiray
+      given-names: Atalay
+    - family-names: Stevenson
+      given-names: Julia
+    - family-names: Krawiec
+      given-names: Conrad
+  journal: "PLOS ONE"
+  year: 2026
+  volume: 21
+  issue: 4
+  start: e0338586
+  doi: "10.1371/journal.pone.0338586"
+  url: "https://doi.org/10.1371/journal.pone.0338586"
